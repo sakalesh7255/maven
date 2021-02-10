@@ -1,0 +1,6 @@
+pages\LogInPage.class
+generics\BaseTest.class
+pages\EnterTimeTrackPage.class
+pages\LicensePage.class
+generics\AutoConstant.class
+generics\FWUtils.class
